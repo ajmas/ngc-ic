@@ -12,6 +12,7 @@ The project presented on GitHub is currently a work in progress to make it avail
 
 http://www.klima-luft.de/steinicke/ngcic/ngcic_e.htm
 
+Permission was granted by Dr. Wolfgang Steinicke to make this data available in this form, on the condition use conditions and acknowlegments are maintained.
 
 Contribution
 ------------
@@ -21,7 +22,7 @@ For the astronimical data, working with upstream source is the best place to go.
 Commerical Use
 --------------
 
-The project license as presented is suitable for non-commerical use. If you wish to use this in a commerical project please contact [Dr. Wolfgang Steinicke](mailto:steinicke-zehnle@t-online.de) who is the current upstream maintainer.
+The project license as presented is suitable for non-commerical use. If you wish to use this in a commerical project please contact [Dr. Wolfgang Steinicke](mailto:steinicke-zehnle@t-online.de) who is the current upstream maintainer. Please see license file for details on the current license.
 
 Other Projects
 --------------
